@@ -51,4 +51,7 @@ Scenario lets us be sure that we are doing the right things.
   
 To discuss the solution of your tasks, please, send me a message in [upWork](https://www.upwork.com/freelancers/~01eb084013daca88d1)!  
   
+Regards,  
+[Alex Novikov](@asnov)  
+@asnov  
   
