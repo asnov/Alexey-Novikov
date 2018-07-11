@@ -1,4 +1,4 @@
-##TypeScript, Angular 6 expert skilled in BDD/TDD, E2E- and unit-testing  
+# TypeScript, Angular 6 expert skilled in BDD/TDD, E2E- and unit-testing  
   
 Good day, dear customer!  
 Let me ask you three questions:  
@@ -19,7 +19,7 @@ It is well structured, commented, easy to maintain and develop because of JsLint
 It could not be conflicted with your existing site or code because I always use strict mode and classes. Also I never use global space for local variables :)  
   
 My other skills are:  
-- [TypeScript](http://www.typescriptlang.org/), JavaScript, Angular, AngularJS, ES5, ES6, ES2015, ES2017 are for front-end development  
+- [TypeScript](https://www.typescriptlang.org/), JavaScript, [Angular](https://angular.io), AngularJS, ES5, ES6, ES2015, ES2017 are for front-end development  
 - Express.js, Node.js, LoopBack, Swagger, MySql, MongoDB, MEAN.js are for back-end development  
 - Git / Git Flow / Bitbucket / GitHub are for code collaboration  
 - JSLint / JSHint / ESLint are for code quality  
@@ -49,6 +49,6 @@ Scenario lets us be sure that we are doing the right things.
 2) Then I create end-to-end tests for the scenario and write unit test for the future code. After that, we are sure that we are doing the things right.  
 3) Then I write the code. Usually, every commit goes through e2e- and unit-tests and code quality checks (Continuous Integration/Continuous Delivery workflow). This allows us to be sure that the code is reliable, extensible and will not contain any errors even in the future.  
   
-To discuss the solution of your tasks, please, send me a message in [upWork](https://www.upwork.com/freelancers/~01eb084013daca88d1)!
+To discuss the solution of your tasks, please, send me a message in [upWork](https://www.upwork.com/freelancers/~01eb084013daca88d1)!  
   
   
