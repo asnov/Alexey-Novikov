@@ -16,10 +16,10 @@ I believe it is a language of the future.
 I write the code quickly because I use Angular framework and I love it.
 My code almost bugs free because I use testing systems like QUnit and Jasmine.
 It is well structured, commented, easy to maintain and develop because of JsLint,JsHint,ESLint tools.
-It could not be conflicted with your existing site or code because I always use strict mode and classes. Also I never use global space for local variables :)
+It could not be conflicted with your existing site or code because I always use strict mode and classes. Also I never use global space for local variables :)  
   
 My other skills are:  
-- TypeScript, JavaScript, Angular, AngularJS, ES5, ES6, ES2015, ES2017 are for front-end development  
+- [TypeScript](http://www.typescriptlang.org/), JavaScript, Angular, AngularJS, ES5, ES6, ES2015, ES2017 are for front-end development  
 - Express.js, Node.js, LoopBack, Swagger, MySql, MongoDB, MEAN.js are for back-end development  
 - Git / Git Flow / Bitbucket / GitHub are for code collaboration  
 - JSLint / JSHint / ESLint are for code quality  
