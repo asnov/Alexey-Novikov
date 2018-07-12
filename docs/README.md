@@ -1,4 +1,4 @@
-## TypeScript, Angular 6 expert skilled in BDD/TDD, E2E- and unit-testing  
+### TypeScript, Angular 6 expert skilled in BDD/TDD, E2E- and unit-testing  
   
 Good day, dear customer!  
 Let me ask you three questions:  
