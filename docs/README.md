@@ -45,8 +45,8 @@ Typically, the work process I prefer to looks like the follow:
 Given the user opens homepage  
 When the user clicks "agree" checkbox  
 Then the user should not see the EULA anymore  
-Scenario lets us be sure that we are doing the right things.  
 ```  
+Scenario lets us be sure that we are doing the right things.  
 2) Then I create end-to-end tests for the scenario and write unit test for the future code. After that, we are sure that we are doing the things right.  
 3) Then I write the code. Usually, every commit goes through e2e- and unit-tests and code quality checks (Continuous Integration/Continuous Delivery workflow). This allows us to be sure that the code is reliable, extensible and will not contain any errors even in the future.  
   
