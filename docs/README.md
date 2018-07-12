@@ -10,7 +10,7 @@ Let me ask you three questions:
 If all your answers are «yes» you came to the right person because since 1986 
 I have over 25 years of IT-experience. I have had Microsoft Certified Trained status 
 so I know what to do to get the jobs well done. And I have been working in web-development 
-for 12 years. Last 5 years I specialising in frond-end development because I like JavaScript. 
+for 12 years. Last 5 years I specialising in frond-end development because I like JavaScript and particularly TypeScript. 
 I believe it is a language of the future.  
   
 I write the code quickly because I use Angular framework and I love it.
@@ -52,6 +52,6 @@ Scenario lets us be sure that we are doing the right things.
 To discuss the solution of your tasks, please, send me a message in [upWork](https://www.upwork.com/freelancers/~01eb084013daca88d1)!  
   
 Regards,  
-[Alex Novikov](@asnov)  
+[Alex Novikov](https://github.com/asnov)  
 @asnov  
   
