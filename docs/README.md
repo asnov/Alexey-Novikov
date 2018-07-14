@@ -1,6 +1,9 @@
 #### TypeScript, Angular 6 expert skilled in BDD/TDD, E2E- and unit-testing  
   
   
+###### What is my difference?  
+##### I make projects that live long without my care.  
+  
   
   
   
